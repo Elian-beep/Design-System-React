@@ -14,4 +14,4 @@
 
 ## Detalhes do projeto
 
-Tela de Login responsiva feita em ReactJS com Vite, utilizando diversas tecnoligias e bibliotecas de apoio como didática para o desenvolvimento de projetos de pequenos ou grandes portes.
+Tela de Login responsiva feita em ReactJS com Vite, utilizando diversas tecnologias e bibliotecas de apoio como didática para o desenvolvimento de projetos de pequenos ou grandes portes.
