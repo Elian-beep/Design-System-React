@@ -23,7 +23,7 @@ export function App() {
         </Text>
       </header>
 
-      <form className='flex flex-col gap-4 items-stretch w-full max-w-sm mt-10'>
+      <form className='flex flex-col gap-5 items-stretch w-[80%] max-w-sm mt-10'>
 
         <label htmlFor="email" className='flex flex-col gap-3'>
           <Text className='font-semibold'>Endereço de email</Text>
